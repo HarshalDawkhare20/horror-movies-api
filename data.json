@@ -365,6 +365,7 @@
         "yearReleased": "2019",
         "language": "English",
         "director": " Ari Aster"
+    },
      {
         "id": 23,
         "name": "The Midnigth club",
@@ -388,7 +389,7 @@
         "language": "English",
         "director": "Kevin Ko"
     },
-    }
+    
      {
         "id": 32,
         "name": "Bhool Bhulaiyaa  ",
@@ -396,7 +397,7 @@
         "language": "Hindi",
         "director": "Priyadarshan"
 
-    }
+    
 
     },
 {
